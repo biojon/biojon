@@ -6,3 +6,5 @@ def sum_bp_records(records):
         total += sum_bp(record)
 
     return total
+
+#asaa
